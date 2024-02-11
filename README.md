@@ -20,7 +20,7 @@ Welcome to my Portfolio Website! This project showcases my skills, projects, and
 
 1. Clone this repository to your local machine:
 
-git clone https://github.com/your-username/portfolio-website.git
+git clone https://github.com/Nithingowda16/portfolio-website.git
 
 2. Navigate to the project directory:
 

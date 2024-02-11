@@ -29,7 +29,7 @@ git clone https://github.com/your-username/portfolio-website.git
 
 ## Screenshots
 
-![Screenshot 1]()
+![Screenshot 1](https://github.com/Nithingowda16/UPDATES/blob/main/PORTFOLIO%202.jpg)
 
 
 ## Contributing
